@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: default
     env:
-      SONAR_ORGANIZATION: Zhipeng Wang
+      SONAR_ORGANIZATION: 8p-peng
       SONAR_PROJECT_KEY: 8P-Peng_se24-assignment2
 
     steps:
